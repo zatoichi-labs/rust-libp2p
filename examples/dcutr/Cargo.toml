@@ -6,7 +6,7 @@ publish = false
 license = "MIT"
 
 [dependencies]
-clap = { version = "4.1.6", features = ["derive"] }
+clap = { version = "4.1.13", features = ["derive"] }
 env_logger = "0.10.0"
 futures = "0.3.26"
 futures-timer = "3.0"
